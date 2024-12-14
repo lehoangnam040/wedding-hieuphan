@@ -5,3 +5,4 @@ LICENSE
 node_modules
 package-lock.json
 netlify.toml
+.DS_Store
